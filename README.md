@@ -1,78 +1,38 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+# Hello, I'm Hexamouse!
 
-<p align="center">
-  <samp>
-    My name is <em>[Your Name]</em>. I am a passionate developer working with a diverse set of technologies.
-    <br/> Enthusiastic about PHP, Laravel, JavaScript, Java, Node.js, ReactJS, React Native, C++, C#, Lua, and SQL Server.
-    <br/> Constantly learning and contributing to various projects.
-  </samp>
-  <br/>
-  <br/>
-  <br/>
-</p>
+Welcome to my corner of the tech world. I am a passionate Fullstack Developer and Game Developer currently working at **Last Worlds** while pursuing my studies. My favorite framework is **Next.js**.
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="30%"/>
+## 🚀 Skills & Technologies
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" /> A web application using PHP and Laravel
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" /> Developing cross-platform apps with React Native
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwindcss&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?logo=microsoftsqlserver&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2c2c2c?logo=lua&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Advanced JavaScript and ReactJS concepts
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px" /> Game Development with C++ and Lua
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Functional Programming in Java and JavaScript
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Machine Learning with Node.js
+### Skill Proficiency
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> Open source projects involving PHP, JavaScript, or Java
+- **PHP:** ![PHP](https://img.shields.io/badge/Skill%20Level-60%25-blue)
+- **Next.js:** ![Next.js](https://img.shields.io/badge/Skill%20Level-80%25-blue)
+- **React.js:** ![React.js](https://img.shields.io/badge/Skill%20Level-40%25-blue)
+- **C++:** ![C++](https://img.shields.io/badge/Skill%20Level-70%25-blue)
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Innovative ideas and creative solutions in C# and React Native
+## 🛠️ Current Projects
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" /> Ask me about ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> Anything related to PHP, Laravel, or ReactJS
+I’m currently developing engaging and innovative games at **Last Worlds**. If you have any questions or collaboration ideas, feel free to reach out!
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
-<p align="center">
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram_handle/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://discord.gg/your_discord_invite">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-</p>
+## 📫 Contact Me
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-<p align="center">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/php.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/laravel.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/cplusplus.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/lua.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sql_server.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-</p>
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/hexamouse](https://linkedin.com/in/hexamouse)
+- **GitHub:** [github.com/hexamouse](https://github.com/hexamouse)
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
-
-<!--START_SECTION:waka-->
-```text
-Week: [Insert Date Range]
-
-PHP          10 hrs 25 mins  ███████████████████░░░░░░░░  68.25 % 
-JavaScript    3 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░░░  24.82 % 
-Java          1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░░  08.50 % 
-Other         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░  03.43 %
+Thank you for visiting my profile!
