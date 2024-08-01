@@ -32,9 +32,6 @@ Welcome to my corner of the tech world. I am a passionate Fullstack Developer an
 I’m currently developing engaging and innovative games at **Last Worlds**. If you have any questions or collaboration ideas, feel free to reach out!
 
 ## 📫 Contact Me
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/hexamouse](https://linkedin.com/in/hexamouse)
 - **GitHub:** [github.com/hexamouse](https://github.com/hexamouse)
 
 Thank you for visiting my profile!
