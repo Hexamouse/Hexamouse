@@ -17,6 +17,7 @@ Welcome to my corner of the tech world. I am a passionate Fullstack Developer an
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwindcss&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?logo=microsoftsqlserver&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2c2c2c?logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
 ### Skill Proficiency
 
@@ -24,6 +25,7 @@ Welcome to my corner of the tech world. I am a passionate Fullstack Developer an
 - **Next.js:** ![Next.js](https://img.shields.io/badge/Skill%20Level-80%25-blue)
 - **React.js:** ![React.js](https://img.shields.io/badge/Skill%20Level-40%25-blue)
 - **C++:** ![C++](https://img.shields.io/badge/Skill%20Level-70%25-blue)
+- **Python:** ![Python](https://img.shields.io/badge/Skill%20Level-50%25-blue)
 
 ## 🛠️ Current Projects
 
