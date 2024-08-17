@@ -24,7 +24,7 @@ Welcome to my corner of the tech world. I am a passionate Fullstack Developer an
 - **PHP:** ![PHP](https://img.shields.io/badge/Skill%20Level-60%25-blue)
 - **Next.js:** ![Next.js](https://img.shields.io/badge/Skill%20Level-80%25-blue)
 - **React.js:** ![React.js](https://img.shields.io/badge/Skill%20Level-40%25-blue)
-- **C++:** ![C++](https://img.shields.io/badge/Skill%20Level-70%25-blue)
+- **C++:** ![C++](https://img.shields.io/badge/Skill%20Level-50%25-blue)
 - **Python:** ![Python](https://img.shields.io/badge/Skill%20Level-50%25-blue)
 
 ## 🛠️ Current Projects
