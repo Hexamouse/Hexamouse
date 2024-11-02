@@ -35,5 +35,3 @@ I’m currently developing engaging and innovative games at **Last Worlds**. If 
 - **GitHub:** [github.com/hexamouse](https://github.com/hexamouse)
 
 Thank you for visiting my profile!
-
-(https://github-profile-trophy.vercel.app/?username=Hexamouse-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=Hexamouse&theme=onedark)
