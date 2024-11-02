@@ -33,7 +33,3 @@ I’m currently developing engaging and innovative games at **Last Worlds**. If 
 
 ## 📫 Contact Me
 - **GitHub:** [github.com/hexamouse](https://github.com/hexamouse)
-
-Thank you for visiting my profile!
-
-https://raw.githubusercontent.com/qya/qya/output/github-contribution-grid-snake.svg
