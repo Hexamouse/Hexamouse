@@ -6,7 +6,7 @@ Welcome to my corner of the tech world. I'm a passionate **Fullstack Developer**
 - **GitHub:** [github.com/hexamouse](https://github.com/hexamouse)
 - **LinkedIn:** [linkedin.com/in/hexamouse](https://www.linkedin.com/in/hexamouse)
 
-![React](https://skillicons.dev/icons?i=react,next,vue,angular,tailwindcss,python,nodejs,javascript,html,css)
+![React](https://skillicons.dev/icons?i=react,next,nuxt,php,tailwindcss,python,nodejs,javascript,html,css)
 
 ---
 ### *Let's code and create amazing things together!*
