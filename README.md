@@ -1,4 +1,4 @@
-### Hi, I'm Hexamouse! 👋
+### Hi, I'm Dzikri Maulana! 👋
 ---
 - **GitHub:** [github.com/hexamouse](https://github.com/hexamouse)
 - **LinkedIn:** [linkedin.com/in/hexamouse](https://www.linkedin.com/in/hexamouse)
