@@ -42,8 +42,7 @@ Stay tuned — I’m cleaning & publishing them 😉
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hexamouse&show_icons=true&theme=tokyonight" height="160" />
-  <<img src="https://streak-stats.demolab.com?user=hexamouse&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-kappa-seven-66.vercel.app/api?username=hexamouse&show_icons=true&theme=tokyonight" height="160" />
 </p>
 
 ---
