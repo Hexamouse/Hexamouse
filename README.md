@@ -42,7 +42,8 @@ Stay tuned — I’m cleaning & publishing them 😉
 ## 📊 GitHub Stats
 
 <p align="left">
-https://github-readme-stats-kappa-seven-66.vercel.app/api?username=hexamouse
+<img src="https://github-readme-stats-kappa-seven-66.vercel.app/api?username=hexamouse&show_icons=true&theme=tokyonight" height="160" />
+
 )
 </p>
 
