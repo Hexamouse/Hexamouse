@@ -42,8 +42,8 @@ Stay tuned — I’m cleaning & publishing them 😉
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexamouse&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexamouse&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hexamouse&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hexamouse&theme=tokyonight" height="160" />
 </p>
 
 ---
