@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,next,php,vercel,py,dotnet,cs,cpp,nodejs,java,javascript,ts,html,mysql,postgres,firebase,postman,tailwindcss,css,visualstudio,vscode)
+![My Skills](https://skillicons.dev/icons?i=react,next,nuxt,php,vercel,py,dotnet,cs,cpp,nodejs,java,javascript,ts,html,mysql,postgres,firebase,postman,tailwindcss,css,visualstudio,vscode)
 
 ---
 
