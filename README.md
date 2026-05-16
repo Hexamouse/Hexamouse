@@ -115,7 +115,7 @@ In the meantime, here's the type of stuff I build:
 ## / streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=hexamouse&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+  <img src="https://streak-stats.demolab.com?user=hexamouse&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" />
 </p>
 
 ---
